@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\C# Uygulamaları\AdSoyadUyumu\bin\Debug\net6.0\AdSoyadUyumu.exe
+C:\Users\LENOVO\Desktop\C# Uygulamaları\AdSoyadUyumu\bin\Debug\net6.0\AdSoyadUyumu.deps.json
+C:\Users\LENOVO\Desktop\C# Uygulamaları\AdSoyadUyumu\bin\Debug\net6.0\AdSoyadUyumu.runtimeconfig.json
+C:\Users\LENOVO\Desktop\C# Uygulamaları\AdSoyadUyumu\bin\Debug\net6.0\AdSoyadUyumu.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\AdSoyadUyumu\bin\Debug\net6.0\AdSoyadUyumu.pdb
+C:\Users\LENOVO\Desktop\C# Uygulamaları\AdSoyadUyumu\obj\Debug\net6.0\AdSoyadUyumu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\C# Uygulamaları\AdSoyadUyumu\obj\Debug\net6.0\AdSoyadUyumu.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\AdSoyadUyumu\obj\Debug\net6.0\AdSoyadUyumu.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\C# Uygulamaları\AdSoyadUyumu\obj\Debug\net6.0\AdSoyadUyumu.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\AdSoyadUyumu\obj\Debug\net6.0\AdSoyadUyumu.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\AdSoyadUyumu\obj\Debug\net6.0\refint\AdSoyadUyumu.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\AdSoyadUyumu\obj\Debug\net6.0\AdSoyadUyumu.pdb
+C:\Users\LENOVO\Desktop\C# Uygulamaları\AdSoyadUyumu\obj\Debug\net6.0\AdSoyadUyumu.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\AdSoyadUyumu\obj\Debug\net6.0\ref\AdSoyadUyumu.dll
